@@ -36,6 +36,12 @@ This project allows users to generate random color palettes and easily copy hex 
 
 ---
 
+#### 📸 Preview
+
+![Color Palette Generator Preview](screenshot.png)
+
+---
+
 ## 🙌 Credits & Inspiration
 
 This project was created for **learning purposes**.
