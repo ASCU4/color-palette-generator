@@ -1,5 +1,5 @@
 const generateBtn = document.querySelector("#generate-btn");
-const paletteContainer = document.querySelector(".palette-container"); 
+const paletteContainer = document.querySelector(".palette-container");
 
 
 generateBtn.addEventListener("click",generatePalette);
@@ -68,3 +68,4 @@ function updatePaletteDisplay(colors){
     });
 
     }
+
